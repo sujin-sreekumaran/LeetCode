@@ -34,6 +34,6 @@ var romanToInt = function (s) {
   return result;
 };
 
-const value = "XML";
+const value = "IVXCM";
 
 romanToInt(value);
