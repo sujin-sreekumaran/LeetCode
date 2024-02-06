@@ -1,4 +1,4 @@
-## LeetCode Solutions 
+# LeetCode Solutions 
 
 This repository contains my solutions to various LeetCode coding challenges. Each solution is well-documented and organized by problem number for easy reference. Feel free to explore, learn, and contribute!
 
